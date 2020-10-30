@@ -4,6 +4,7 @@
 
 <hr />
 <h2 align="center"> My GitHub Stats </h2>
-
-![Kathleen's github stats](https://github-readme-stats.vercel.app/api?username=kstick9210&hide=stars,issues&count_private=true&show_icons=true&bg_color=10388F&title_color=DBA423&text_color=FFF&icon_color=DBA423)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kstick9210&langs_count=3&layout=compact&bg_color=10388F&text_color=FFF&title_color=DBA423)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kstick9210&hide=stars,issues&count_private=true&show_icons=true&bg_color=10388F&title_color=DBA423&text_color=FFF&icon_color=DBA423">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kstick9210&langs_count=3&layout=compact&bg_color=10388F&text_color=FFF&title_color=DBA423">
+</p>
