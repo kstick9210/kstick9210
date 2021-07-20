@@ -1,6 +1,5 @@
 <h1 align="center"> Hey, I'm Kathleen ✨</h1>
 <h3 align="center">I'm a full stack engineer with a knack for front end development <img src="https://i.imgur.com/Tfnglej.png" alt="react" width="18" height="18"/></h3>
-<p align="center">You can checkout my work here on my profile and over at <a href="https://github.com/Cinque-Web-Development">Cinque Web Development</a>, where I'm building cool projects with my team.</p>
 
 <hr />
 <h2 align="center"> My GitHub Stats </h2>
